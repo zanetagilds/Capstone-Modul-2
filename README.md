@@ -26,6 +26,25 @@ Airbnb merupakan platform online yang memfasilitasi penyewaan tempat tinggal di 
 7. Host ID di Ratchathewi yang Menerima Jumlah Ulasan Terendah (12 Bulan Terakhir)
 
 Hasil dari analisis adalah untuk memberikan rekomendasi-rekomendasi potensial kebijakan dalam pengambilan keputusan bagi Airbnb Bangkok.
+## Nama Kolom dan Deskripsi
+| Nama Kolom                      | Deskripsi                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------|
+| id                              | unique ID dari listing                                         |
+| name                            | Nama penginapan dari listing                                               |
+| host_id                         | unique ID untuk penyewa/host                           |
+| host_name                       | Nama depan penyewa/host                                                        |
+| neighbourhood                    | Kawasan yang ditentukan berdasarkan koordinat geografis                     |
+| latitude                        | Koordinat geografis lintang dari penginapan                                |
+| longitude                       | Koordinat geografis bujur dari penginapan                                  |
+| room_type                       | Jenis kamar atau akomodasi yang ditawarkan                                 |
+| price                           | Harga harian dalam mata uang lokal   (Baht)                                     |
+| minimum_nights                  | Jumlah minimum malam yang dibutuhkan untuk pemesanan                        |
+| number_of_reviews               | Total jumlah ulasan yang diterima penginapan                                |
+| last_review                     | Tanggal ulasan terbaru                                                     |
+| reviews_per_month                     | Ulasan yang diterima per bulan                                                     |
+| calculated_host_listings_count  | Jumlah penawaran yang dimiliki penyewa di kota/daerah yang sama         |
+| availability_365                | Ketersediaan penawaran dalam 365 hari mendatang                            |
+| number_of_reviews_ltm           | Jumlah ulasan yang diterima penawaran dalam 12 bulan terakhir             |
 ## Conclusion dan Recommendations
 #### Conclusion
 Berikut merupakan kesimpulan dari insights dari Visual Studio Code dan Tableau, 
