@@ -29,10 +29,9 @@ Hasil dari analisis adalah untuk memberikan rekomendasi-rekomendasi potensial ke
 ## Conclusion dan Recommendations
 #### Conclusion
 Berikut merupakan kesimpulan dari insights dari Visual Studio Code dan Tableau, 
-1. Vadhana dan Ratchathewi merupakan distrik dengan penginapan terbanyak dan juga tidak mendapatkan review, yang mendapatkan ulasan  sangat buruk, dan ulasan terendah selama 12 bulan terakhir.
+- Vadhana dan Ratchathewi merupakan distrik dengan penginapan terbanyak dan juga tidak mendapatkan review, yang mendapatkan ulasan  sangat buruk, dan ulasan terendah selama 12 bulan terakhir.
 
-
-2. Distrik Vadhana merupakan top 1 distrik dengan penginapan terbanyak di Bangkok tetapi memiliki review category 'Tidak Ada Review' dan 'Sangat Buruk'. Hal tersebut disebabkan oleh tamu yang tidak memiliki waktu akibat letak Vadhana yang strategis akan pusat perbelanjaan dan hiburan, khususnya Thonglor dan Ekamai. Para tamu lebih banyak mengalokasi waktu untuk mengeksplor Vadhana dibandingkan mengisi ulasan.
+- Distrik Vadhana merupakan top 1 distrik dengan penginapan terbanyak di Bangkok tetapi memiliki review category 'Tidak Ada Review' dan 'Sangat Buruk'. Hal tersebut disebabkan oleh tamu yang tidak memiliki waktu akibat letak Vadhana yang strategis akan pusat perbelanjaan dan hiburan, khususnya Thonglor dan Ekamai. Para tamu lebih banyak mengalokasi waktu untuk mengeksplor Vadhana dibandingkan mengisi ulasan.
 
 Untuk mengetahui penginapan mana saja di Vadhana yang memiliki total ulasan terendah selama 12 bulan, maka dicari berdasarkan host ID. Berikut merupakan 5 host ID terendah:
 1. 485313876
@@ -41,7 +40,7 @@ Untuk mengetahui penginapan mana saja di Vadhana yang memiliki total ulasan tere
 4. 456119431
 5. 449012324
 
-3. Distrik Ratchathewi merupakan top 4 distrik dengan penginapan terbanyak di Bangkok tetapi memiliki total ulasan terendah selama 12 bulan terakhir. Hal tersebut disebabkan oleh tamu yang tidak memiliki waktu setelah menginap karena Ratchathewi terletak di pusat kota dengan berbagai tempat yang menghibur. Yang terkenal dari distrik ini adalah MBK Center dan Siam Paragon. 
+- Distrik Ratchathewi merupakan top 4 distrik dengan penginapan terbanyak di Bangkok tetapi memiliki total ulasan terendah selama 12 bulan terakhir. Hal tersebut disebabkan oleh tamu yang tidak memiliki waktu setelah menginap karena Ratchathewi terletak di pusat kota dengan berbagai tempat yang menghibur. Yang terkenal dari distrik ini adalah MBK Center dan Siam Paragon. 
 
 Untuk mengetahui penginapan mana saja di Ratchathewi yang memiliki total ulasan terendah selama 12 bulan, maka dicari berdasarkan host ID. Berikut merupakan 5 contoh host ID terendah:
 1. 153793
@@ -50,12 +49,11 @@ Untuk mengetahui penginapan mana saja di Ratchathewi yang memiliki total ulasan 
 4. 5115355
 5. 5357273
 
-
 #### Recommendations:
 1. Bagi Airbnb dan penyewa:
 - Airbnb menghubungi penyewa yang memiliki unit dengan review 'sangat buruk' dan 'tidak ada review'. Hal tersebut dilakukan agar host meningkatkan kualitas unitnya. Apabila tidak dilaksanakan dalam waktu tertentu, maka Airbnb memiliki otoritas untuk memutuskan hubungan dengan host. Pihak Airbnb juga harus mengawasi setiap progress dari host terhadap unitnya.
 
 2. Bagi tamu:
-- Airbnb memberi pesan reminder melalui e-mail aplikasi dari guest setelah mereka menginap
-- Tamu yang memberikan review mampu mendapatkan tambahan poin sehingga tamu juga akan mendapatkan benefit dua arah
-- Saat guest hendak memberi review, guest diberi sebuah penjelasan bahwa review harus ditulis secara jujur dan host tidak mampu mengganggu gugat atas review tersebut
+- Dengan tamu yang cenderung lupa akibat keterbatasan waktu, Airbnb dapat memberi pesan reminder melalui e-mail aplikasi dari guest setelah mereka menginap
+- Dentan tamu yang cenderung tidak merasa untung, Airbnb dapat memberi benefit bagi tamu yang memberi ulasan, seperti sistem mengumpulkan poin yang dapat diredeem untuk penginapan selanjutnya
+- Dengan tamu yang cenderung takut menjalin hubungan yang buruk dengan penyewa, tamu diberi sebuah penjelasan bahwa review harus ditulis secara jujur dan penyewa tidak mampu mengganggu gugat atas review tersebut
