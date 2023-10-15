@@ -3,7 +3,7 @@
 #### 
 Airbnb merupakan platform online yang memfasilitasi penyewaan tempat tinggal di seluruh dunia. Terdapat berbagai tipe tempat tinggal, mulai dari rumah, apartemen, kamar, hingga villa yang dapat disewa sesuai preferensi para tamu. Airbnb sangat mudah ditemukan di berbagai kota dan negara, salah satunya di Bangkok, Thailand. Dataset ini mengungkapkan Airbnb Listing di Bangkok yang memberi detail mengenai tipe kamar, ulasan dari para tamu, persebaran penginapan di Bangkok. Pada dataset ini, ditemukan ulasan yang buruk atau tidak ada review sama sekali yang mengakibatkan kehilangan kepercayaan terhadap potensial tamu. Oleh karena itu, analisis ini akan memberikan gambaran bagi Airbnb Bangkok dalam memperbaiki kebijakan yang lebih baik bagi Airbnb Bangkok, penyewa/host, dan para tamu.
 ## Stakeholder
-#### C-level eksekutif di Airbnb Bangkok
+#### Host/Penyewa dan Tamu di Airbnb Bangkok
 ## Permasalahan dan Goals
 ####
 - Permasalahan:
